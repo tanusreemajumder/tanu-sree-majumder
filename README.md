@@ -1,4 +1,4 @@
-# Hi, I'm Tanusree Majumder 👋
+# Hi, I'm Tanu sree Majumder 👋
 
 🎓 **B.Sc. in Physics** | Pursuing **Professional M.Sc. in ICT**  
 📊 Passionate about **Data Analysis**, **Python**, and **Digital Content Creation**.
